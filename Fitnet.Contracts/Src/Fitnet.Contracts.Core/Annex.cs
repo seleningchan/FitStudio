@@ -2,7 +2,6 @@
 
 using AttachAnnexToBindingContract;
 using DomainDrivenDesign.BuildingBlocks;
-using System;
 
 public sealed class Annex : Entity
 {
