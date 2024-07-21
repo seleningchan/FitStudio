@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9nJtJLqgPk=",
+  "success": true,
+  "projectFilePath": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\Fitnet.Contracts.Core.csproj",
+  "expectedPackageFiles": [
+    "D:\\nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "D:\\nuget\\packages\\evolutionaryarchitecture.fitnet.common.core\\4.1.6\\evolutionaryarchitecture.fitnet.common.core.4.1.6.nupkg.sha512",
+    "D:\\nuget\\packages\\evolutionaryarchitecture.fitnet.domaindrivendesign.buildingblocks\\1.2.1\\evolutionaryarchitecture.fitnet.domaindrivendesign.buildingblocks.1.2.1.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

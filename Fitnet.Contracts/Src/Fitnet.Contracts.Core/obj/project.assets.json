@@ -1,0 +1,235 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ErrorOr/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "EvolutionaryArchitecture.Fitnet.Common.Core/4.1.6": {
+        "type": "package",
+        "dependencies": {
+          "ErrorOr": "2.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/EvolutionaryArchitecture.Fitnet.Common.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/EvolutionaryArchitecture.Fitnet.Common.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks/1.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ErrorOr/2.0.1": {
+      "sha512": "aje9lUVEAsusPFmaRcVM5EUqWBofd7hYtb9N8+ycgPYrtOzyFajMpzRgIO4uuiCllNLBc3x48+cpA+4v4koUDQ==",
+      "type": "package",
+      "path": "erroror/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "erroror.2.0.1.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
+      ]
+    },
+    "EvolutionaryArchitecture.Fitnet.Common.Core/4.1.6": {
+      "sha512": "tIOGDdQ6bdAK55LXPQP3yIxDuPm1biQ4S0K8P6uB2vt0D+bDWRvLogmgXpvg4Lrv2SKXuW+KlJ0kQd5SosxFCg==",
+      "type": "package",
+      "path": "evolutionaryarchitecture.fitnet.common.core/4.1.6",
+      "files": [
+        ".nupkg.metadata",
+        "evolutionaryarchitecture.fitnet.common.core.4.1.6.nupkg.sha512",
+        "evolutionaryarchitecture.fitnet.common.core.nuspec",
+        "lib/net8.0/EvolutionaryArchitecture.Fitnet.Common.Core.dll",
+        "lib/net8.0/EvolutionaryArchitecture.Fitnet.Common.Core.xml"
+      ]
+    },
+    "EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks/1.2.1": {
+      "sha512": "mKdMch4ysXJ+yCRrfhbOI/vW9vW1gWzx5IYISQcFG3p83YccKx+54tvyVmqEBs7cqVg1x0ObfHjr1XkAUFwXCw==",
+      "type": "package",
+      "path": "evolutionaryarchitecture.fitnet.domaindrivendesign.buildingblocks/1.2.1",
+      "files": [
+        ".nupkg.metadata",
+        "evolutionaryarchitecture.fitnet.domaindrivendesign.buildingblocks.1.2.1.nupkg.sha512",
+        "evolutionaryarchitecture.fitnet.domaindrivendesign.buildingblocks.nuspec",
+        "lib/net8.0/EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks.dll",
+        "lib/net8.0/EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks.xml"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "sha512": "cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ErrorOr >= 2.0.1",
+      "EvolutionaryArchitecture.Fitnet.Common.Core >= 4.1.6",
+      "EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks >= 1.2.1"
+    ]
+  },
+  "packageFolders": {
+    "D:\\nuget\\packages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\Fitnet.Contracts.Core.csproj",
+      "projectName": "EvolutionaryArchitecture.Fitnet.Contracts.Core",
+      "projectPath": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\Fitnet.Contracts.Core.csproj",
+      "packagesPath": "D:\\nuget\\packages",
+      "outputPath": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\NuGet.Config",
+        "C:\\Users\\Pumbba_Chin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/evolutionary-architecture/index.json": {},
+        "https://nuget.pkg.github.com/evolutionary-architecture/index.json": {},
+        "https://packagesource": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
+          "EvolutionaryArchitecture.Fitnet.Common.Core": {
+            "target": "Package",
+            "version": "[4.1.6, )"
+          },
+          "EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks": {
+            "target": "Package",
+            "version": "[1.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

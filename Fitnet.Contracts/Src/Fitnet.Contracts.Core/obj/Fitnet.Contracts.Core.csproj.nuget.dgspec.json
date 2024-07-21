@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\Fitnet.Contracts.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\Fitnet.Contracts.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\Fitnet.Contracts.Core.csproj",
+        "projectName": "EvolutionaryArchitecture.Fitnet.Contracts.Core",
+        "projectPath": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\Fitnet.Contracts.Core.csproj",
+        "packagesPath": "D:\\nuget\\packages",
+        "outputPath": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\NuGet.Config",
+          "C:\\Users\\Pumbba_Chin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/evolutionary-architecture/index.json": {},
+          "https://nuget.pkg.github.com/evolutionary-architecture/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "EvolutionaryArchitecture.Fitnet.Common.Core": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            },
+            "EvolutionaryArchitecture.Fitnet.DomainDrivenDesign.BuildingBlocks": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

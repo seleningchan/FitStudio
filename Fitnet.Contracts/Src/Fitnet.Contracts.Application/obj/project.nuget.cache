@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "r1WEbTYdO5s=",
+  "success": true,
+  "projectFilePath": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Application\\Fitnet.Contracts.Application.csproj",
+  "expectedPackageFiles": [
+    "D:\\nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "D:\\nuget\\packages\\evolutionaryarchitecture.fitnet.common.api\\4.1.6\\evolutionaryarchitecture.fitnet.common.api.4.1.6.nupkg.sha512",
+    "D:\\nuget\\packages\\evolutionaryarchitecture.fitnet.common.core\\4.1.6\\evolutionaryarchitecture.fitnet.common.core.4.1.6.nupkg.sha512",
+    "D:\\nuget\\packages\\evolutionaryarchitecture.fitnet.common.infrastructure\\4.1.6\\evolutionaryarchitecture.fitnet.common.infrastructure.4.1.6.nupkg.sha512",
+    "D:\\nuget\\packages\\evolutionaryarchitecture.fitnet.domaindrivendesign.buildingblocks\\1.2.1\\evolutionaryarchitecture.fitnet.domaindrivendesign.buildingblocks.1.2.1.nupkg.sha512",
+    "D:\\nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "D:\\nuget\\packages\\jetbrains.annotations\\2023.3.0\\jetbrains.annotations.2023.3.0.nupkg.sha512",
+    "D:\\nuget\\packages\\masstransit.abstractions\\8.2.2\\masstransit.abstractions.8.2.2.nupkg.sha512",
+    "D:\\nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "D:\\nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.1\\microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "D:\\nuget\\packages\\evolutionaryarchitecture.fitnet.contracts.integrationevents\\1.0.7\\evolutionaryarchitecture.fitnet.contracts.integrationevents.1.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

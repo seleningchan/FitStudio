@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EvolutionaryArchitecture.Fitnet.Contracts.props" />
+</Project>

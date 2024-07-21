@@ -1,0 +1,8 @@
+{
+  "EvolutionaryArchitecture.Fitnet.Contracts.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Api",
+  "EvolutionaryArchitecture.Fitnet.Contracts.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Application",
+  "EvolutionaryArchitecture.Fitnet.Contracts.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Core",
+  "EvolutionaryArchitecture.Fitnet.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts",
+  "EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.Infrastructure",
+  "EvolutionaryArchitecture.Fitnet.Contracts.IntegrationEvents, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Contracts\\Src\\Fitnet.Contracts.IntegrationEvents"
+}

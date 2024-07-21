@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure</name>
+    </assembly>
+    <members>
+        <member name="T:EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure.Database.Migrations.AddAnnexes">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure.Database.Migrations.AddAnnexes.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure.Database.Migrations.AddAnnexes.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure.Database.Migrations.AddAnnexes.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure.Database.Migrations.ChangeBindingContractTerminatedAtToNullable">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure.Database.Migrations.ChangeBindingContractTerminatedAtToNullable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure.Database.Migrations.ChangeBindingContractTerminatedAtToNullable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Infrastructure.Database.Migrations.ChangeBindingContractTerminatedAtToNullable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.CreateContractsTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.CreateContractsTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.CreateContractsTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddSignedAtDateColumnToContractsTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddSignedAtDateColumnToContractsTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddSignedAtDateColumnToContractsTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddPreparedAtDateColumnToContractsTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddPreparedAtDateColumnToContractsTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddPreparedAtDateColumnToContractsTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.MakeSignedAtColumnNullable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.MakeSignedAtColumnNullable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.MakeSignedAtColumnNullable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddCustomerIdColumn.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddCustomerIdColumn.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddCustomerIdColumn.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.ContractsAddColumnsToSupportContractExpiration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.ContractsAddColumnsToSupportContractExpiration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.ContractsAddColumnsToSupportContractExpiration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddBindingContractTable">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddBindingContractTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddBindingContractTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EvolutionaryArchitecture.Fitnet.Contracts.Data.Database.Migrations.AddBindingContractTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

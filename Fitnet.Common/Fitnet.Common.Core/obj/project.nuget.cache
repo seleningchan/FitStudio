@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjVx7PzEdlw=",
+  "success": true,
+  "projectFilePath": "D:\\DotNetPro\\evDDD\\e\\Chapter-4-applying-tactical-domain-driven-design\\Fitnet.Common\\Fitnet.Common.Core\\Fitnet.Common.Core.csproj",
+  "expectedPackageFiles": [
+    "D:\\nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

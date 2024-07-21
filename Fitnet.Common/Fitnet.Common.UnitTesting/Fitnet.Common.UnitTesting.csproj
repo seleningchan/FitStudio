@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+      <IsPackable>true</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ErrorOr" Version="2.0.1" />
+      <PackageReference Include="FluentAssertions" Version="6.12.0" />
+    </ItemGroup>
+
+</Project>
